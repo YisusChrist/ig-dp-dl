@@ -50,9 +50,9 @@ Before you begin, ensure you have met the following requirements:
 
 ## Usage
 
-    ```bash
-    ig_dp_dl [OPTIONS]
-    ```
+```bash
+ig_dp_dl [OPTIONS]
+```
 
 -   Follow the on-screen prompts to provide necessary information.
 -   Sit back and let **ig_dp_dl** do the work for you!
