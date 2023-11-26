@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ig-dp-dl"
+version = "0.1.0"
+description = ""
+license = "GPL-3.0-only"
+authors = ["Alejandro González Momblán <agelrenorenardo@gmail.com>"]
+readme = "README.md"
+repository = "https://github.com/yisuschrist/ig-dp-dl"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+platformdirs = "4.0.0"
+requests = "2.31.0"
+rich = "13.7.0"
+rich-argparse-plus = "0.3.1.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
